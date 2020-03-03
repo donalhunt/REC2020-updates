@@ -21,8 +21,8 @@
 title: Support Tools for Community Renewable Energy
 email: donal.hunt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  We're developing an online platform will be developed which will empower
-  rural communities to identify the optimum renewable energy solution for their
+  We're developing an online platform with the aim of empowering rural
+  communities to identify the optimum renewable energy solution for their
   community, decide how risk and revenue will be shared and raise finance at key
   project stages through crowd funding.
 baseurl: "/REC2020-updates" # the subpath of your site, e.g. /blog
