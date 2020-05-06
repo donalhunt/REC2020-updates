@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Pause"
+date:   2020-05-05 12:00:00 +0100
+categories: 
+---
+
+Due to COVID-19, the team is all working from home. Unfortunately, Donal has paused his research due to the need to focus on childcare duties (all schools and childcare facilities have been closed since 2020-03-13).
+
+Some work is continuing in the background but we expect to hit the ground running again in July 2020 when restrictions are eased and our availability is improved.
