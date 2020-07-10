@@ -22,18 +22,18 @@ Useful documentation on authenticating users via social networks in Django:
  - <https://python-social-auth.readthedocs.io/en/latest/backends/index.html>
 
 Useful documentation on django:
- - Structuring django projects: [https://djangobook.com/mdj2-django-structure/]
- - Running a SSL-enabled django development server: [https://github.com/teddziuba/django-sslserver]
- - Configuration for static files in django: [https://stackoverflow.com/questions/55802798/setting-base-dir-and-project-dir-appropriately-for-my-django-project-to-capture]
+ - Structuring django projects: <https://djangobook.com/mdj2-django-structure/>
+ - Running a SSL-enabled django development server: <https://github.com/teddziuba/django-sslserver>
+ - Configuration for static files in django: <https://stackoverflow.com/questions/55802798/>
  
  Security:
-  - Storing config values outside the codebase: [https://stackoverflow.com/questions/42077532/django-security-and-settings]
+  - Storing config values outside the codebase: <https://stackoverflow.com/questions/42077532/django-security-and-settings>
  
  Misc:
-  - The Twelve Factors (a methodology for building software-as-a-service apps): [https://12factor.net/]
-  - Python Decouple article: [https://simpleisbetterthancomplex.com/2015/11/26/package-of-the-week-python-decouple.html]
-  - Python Decouple documentation: [https://pypi.org/project/python-decouple/]
-  - Getting around domain restrictions for developer platforms: [https://readme.localtest.me/]
+  - The Twelve Factors (a methodology for building software-as-a-service apps): <https://12factor.net/>
+  - Python Decouple article: <https://simpleisbetterthancomplex.com/2015/11/26/package-of-the-week-python-decouple.html>
+  - Python Decouple documentation: <https://pypi.org/project/python-decouple/>
+  - Getting around domain restrictions for developer platforms: <https://readme.localtest.me/>
 
 Academic Reading
- - Papers by Paul Rowley, Loughborough University: [https://repository.lboro.ac.uk/authors/Paul_Rowley/1249551]
+ - Papers by Paul Rowley, Loughborough University: <https://repository.lboro.ac.uk/authors/Paul_Rowley/1249551>
