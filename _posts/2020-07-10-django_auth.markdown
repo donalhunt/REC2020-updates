@@ -17,9 +17,9 @@ Useful documentation on authenticating users via social networks in Django:
  - [User account validation with social-auth-django](https://medium.com/trabe/user-account-validation-with-social-auth-django-658ff00404b5)
  - [Adding Social Authentication to Django](https://realpython.com/adding-social-authentication-to-django/)
  - [django_oauth documentation](https://github.com/Alexmhack/django_oauth/blob/fea559f5d1d5258c2fef9c1259c205423d7c9903/README.md)
- - [https://python-social-auth.readthedocs.io/en/latest/configuration/django.html]
- - [https://python-social-auth.readthedocs.io/en/latest/pipeline.html]
- - [https://python-social-auth.readthedocs.io/en/latest/backends/index.html]
+ - <https://python-social-auth.readthedocs.io/en/latest/configuration/django.html>
+ - <https://python-social-auth.readthedocs.io/en/latest/pipeline.html>
+ - <https://python-social-auth.readthedocs.io/en/latest/backends/index.html>
 
 Useful documentation on django:
  - Structuring django projects: [https://djangobook.com/mdj2-django-structure/]
